@@ -21,20 +21,19 @@ Contributions are always welcome, hoping people will help me in growing this. To
   |Description|Mac|Linux/Win
   |---|---|---
   |Lookup IDE commands|`Cmd`+`Shift`+`A`|`Ctrl`+`Shift`+`A`
-  |Open Class|`Cmd`+`O`|`Ctrl`+`O`
+  |Open Class|`Cmd`+`O`|`Ctrl`+`N`
   |Open File|`Cmd`+`Shift`+`O`|`Ctrl`+`Shift`+`N`
   |Open recently edited file|`Cmd`+`Shift`+`E`|`Ctrl`+`Shift`+`E`
   |Lookup Actions|`Cmd`+`Shift`+`A`|`Ctrl`+`Shift`+`A`
-  |Open Symbol|`Cmd`+`Opt`+`O`|`Alt`+`Shift`+`N`
+  |Open Symbol|`Cmd`+`Opt`+`O`|`Ctrl`+`Alt`+`Shift`+`N`
   |Open recently used file|`Cmd`+`E`|`Ctrl`+`E`
   |Last Edited Location|`Cmd`+`Shift`+`Backspace`|`Ctrl`+`Shift`+`Backspace`
   |Find Usage in persistent window|`Opt`+`F7`|`Alt`+`F7`
   |Find Usage in floating window|`Cmd`+`Opt`+`F7`|`Ctrl`+`Alt`+`F7`
   |Format the code with proper Indentation|`Cmd`+`Opt`+`L`|`Ctrl`+`Alt`+`L`
-  |Surround With|`Opt`+`Cmd`+`T`|`Alt`+`Ctrl`+`T`
+  |Surround With|`Opt`+`Cmd`+`T`|`Ctrl`+`Alt`+`T`
   |Open Terminal|`Opt`+`F12`|`Alt`+`F12`
   |Generate Setter/Getters/|`Cmd`+`N`|`Alt`+`Ins`
-  |Find Class|`CMD`+`O`|`Ctrl`+`N`
   |Refactor/Rename|`Shift`+`F6`|`Shift`+`F6`
   |Quick Fix|`Opt`+`Enter`|`Alt`+`Enter`
   |Goto Definition|`Cmd`+`B`|`Ctrl`+`B`
@@ -45,7 +44,7 @@ Contributions are always welcome, hoping people will help me in growing this. To
   |Select Methods to Override|`Ctrl`+`O`|`Ctrl`+`O`
   |Delete Line|`Cmd`+`Backspace`|`Ctrl`+`Y`
   |Duplicate Line|`Cmd`+`D`|`Ctrl`+`D`
-  |Grow/Shrink selection from cursor|`Opt`+`Up/Down Arrow key`|`Shift` +`Ctrl`+`W`
+  |Grow/Shrink selection from cursor|`Opt`+`Up/Down Arrow key`|\[`Shift`\]+`Ctrl`+`W`
   |[Multicursor Selection](https://android.jlelse.eu/ctrl-g-d94c88cd4475#.55flqgkb3)|`Ctrl`+`G`|`Alt`+`J`
 
   **Complete Keymap Guide :  [MacOSX](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard_mac.pdf) | [Linux/Win](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf)**
